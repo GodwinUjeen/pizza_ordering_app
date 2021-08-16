@@ -1,6 +1,6 @@
-# pizzato
+# Pizza Ordering App
 
-A new Flutter application.
+A simple Pizza Ordering Application made for Android and iOS created with Flutter and Dart.
 
 ## Getting Started
 
