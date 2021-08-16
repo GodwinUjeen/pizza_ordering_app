@@ -1,6 +1,6 @@
 # Pizza Ordering App
 
-A simple Pizza Ordering Application made for Android and iOS created with Flutter and Firebase.
+A simple Pizza Ordering Application for Android and iOS developed using Flutter and Firebase.
 
 ## Getting Started
 
